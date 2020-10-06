@@ -18,7 +18,7 @@
 
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
 - Competitive Coder
-- I ❤️ to work on Android as well !!
+- I ❤️ to work on Web as well !!
 - Opensource Enthusiast
 - Creativity which makes an IMPACT
 - Looking for Opportunities
