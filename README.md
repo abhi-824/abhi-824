@@ -24,6 +24,16 @@
 - Looking for Opportunities
 
 
+## Current Projects
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Commits :fire:  | Stars :star: |
+|-------------|-------------------|---|---|---|
+| [**Game of CODES**](https://github.com/abhi-824/Game-of-CODES) | [![GitHub issues](https://img.shields.io/github/issues/abhi-824/Game-of-CODES?color=green&logo=github&style=flat)](https://github.com/abhi-824/Game-of-CODES/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhi-824/Game-of-CODES?style=flat&logo=github)](https://github.com/abhi-824/Game-of-CODES/pulls)  | [![GitHub Commits](https://img.shields.io/github/commit-activity/y/abhi-824/Game-of-CODES?style=flat&color=critical&logo=github)](https://github.com/abhi-824/Game-of-CODES/commits/master)  |[![GitHub Stars](https://img.shields.io/github/stars/abhi-824/Game-of-CODES?style=social)](https://github.com/abhi-824/Game-of-CODES/stargazers) |
+
+
+<br/>
+<br/>
+
 ## I WORK ON 
 <table>
   <tbody>
