@@ -16,7 +16,7 @@
 </br>
 </br>
 
-- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
+- <strong>Not just another web developer</strong>
 - Competitive Coder
 - I ❤️ to work on Web as well !!
 - Opensource Enthusiast
