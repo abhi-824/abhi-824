@@ -16,7 +16,9 @@
 </br>
 </br>
 
+
 - <strong>Not just another web developer</strong>
+- <strong>Not sure if I am an entrepreneur</strong>
 - Competitive Coder
 - I ❤️ to work on Web as well !!
 - Opensource Enthusiast
@@ -35,6 +37,7 @@
 [![Abhinandan's github stats](https://github-readme-stats.vercel.app/api?username=abhi-824)](https://github.com/abhi-824/github-readme-stats)
 <br/>
 <br/>
+<img align="right" alt="A meme" width="250px" src="https://i.ibb.co/RQrKW2N/Whats-App-Image-2021-02-01-at-20-12-53.jpg" />
 
 ## I WORK ON 
 <table>
