@@ -20,7 +20,6 @@
 - <strong>Not just another web developer</strong>
 - <strong>Not sure if I am an entrepreneur</strong>
 - Competitive Coder
-- I ❤️ to work on Web as well !!
 - Opensource Enthusiast
 - Creativity which makes an IMPACT
 - Looking for Opportunities
