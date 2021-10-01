@@ -34,8 +34,14 @@
 | [**CodeKaksha**](https://github.com/CodeKaksha/codekaksha_web) | [![GitHub issues](https://img.shields.io/github/issues/CodeKaksha/codekaksha_web?color=green&logo=github&style=flat)](https://github.com/CodeKaksha/codekaksha_web/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/CodeKaksha/codekaksha_web?style=flat&logo=github)](https://github.com/CodeKaksha/codekaksha_web/pulls)  | [![GitHub Commits](https://img.shields.io/github/commit-activity/y/CodeKaksha/codekaksha_web?style=flat&color=critical&logo=github)](https://github.com/CodeKaksha/codekaksha_web/commits/master)  |[![GitHub Stars](https://img.shields.io/github/stars/CodeKaksha/codekaksha_web?style=social)](https://github.com/CodeKaksha/codekaksha_web/stargazers) |
 | [**Codeblast**](https://github.com/abhi-824/codeblast) | [![GitHub issues](https://img.shields.io/github/issues/abhi-824/codeblast?color=green&logo=github&style=flat)](https://github.com/abhi-824/codeblast/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhi-824/codeblast?style=flat&logo=github)](https://github.com/abhi-824/codeblast/pulls)  | [![GitHub Commits](https://img.shields.io/github/commit-activity/y/abhi-824/codeblast?style=flat&color=critical&logo=github)](https://github.com/abhi-824/codeblast/commits/master)  |[![GitHub Stars](https://img.shields.io/github/stars/abhi-824/codeblast?style=social)](https://github.com/abhi-824/codeblast/stargazers) |
 
+<div >
+  
 [![Abhinandan's github stats](https://github-readme-stats.vercel.app/api?username=abhi-824)](https://github.com/abhi-824/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-824&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+  
+</div>
 <br/>
+
 <br/>
 
 ## I WORK ON 
